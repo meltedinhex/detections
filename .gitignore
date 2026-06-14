@@ -1,0 +1,15 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Never commit live samples
+*.whl
+*.zip
+*.exe
+*_index.js
+samples/
+raw/
