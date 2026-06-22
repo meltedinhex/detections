@@ -10,6 +10,9 @@ Thumbs.db
 *.whl
 *.zip
 *.exe
+*.tgz
 *_index.js
+bootstrap.js
+node_modules/
 samples/
 raw/
