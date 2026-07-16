@@ -1,5 +1,5 @@
 // ErrTraffic "Analytics" cluster (EtherHiding -> ClickFix) - July 2026 snapshot
-// Full analysis: https://meltedinhex.com/posts/clickfix-etherhiding-go-stealer/
+// Full analysis: https://meltedinhex.com/posts/clickfix-errtraffic-blockchain-c2/
 // Microsoft Defender for Endpoint / Sentinel advanced hunting. Author: Melted in Hex.
 
 // 1) ClickFix clipboard-PowerShell loader: hidden window + IWR + MOTW bypass

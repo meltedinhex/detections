@@ -6,7 +6,7 @@ smart-contract Sekoia tracks as the **"Analytics" cluster**
 of a fast-rotating operation — the on-chain contract and the behavioural chain are the
 durable signals; the domains change roughly daily.
 
-**Full analysis:** [Hiding in Plain Ledger](https://meltedinhex.com/posts/clickfix-etherhiding-go-stealer/)
+**Full analysis:** [Hiding in Plain Ledger](https://meltedinhex.com/posts/clickfix-errtraffic-blockchain-c2/)
 
 Prior research this builds on: HudsonRock, LevelBlue/SpiderLabs (*ErrTraffic v3*), Sekoia
 (*Unveiling ErrTraffic*), Censys, Monarx (`session-manager.php` WordPress backdoor).

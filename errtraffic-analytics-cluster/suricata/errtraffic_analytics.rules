@@ -1,5 +1,5 @@
 # ErrTraffic "Analytics" cluster (EtherHiding -> ClickFix) - July 2026 snapshot
-# Full analysis: https://meltedinhex.com/posts/clickfix-etherhiding-go-stealer/
+# Full analysis: https://meltedinhex.com/posts/clickfix-errtraffic-blockchain-c2/
 # Author: Melted in Hex. Tune sid/rev and $HOME_NET/$EXTERNAL_NET before deploying.
 
 # 1) Injected EtherHiding loader served in an HTML response (contract marker)

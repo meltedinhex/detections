@@ -1,7 +1,7 @@
 {
   "campaign": "ErrTraffic 'Analytics' cluster (EtherHiding -> ClickFix)",
   "snapshot": "2026-07-16",
-  "reference": "https://meltedinhex.com/posts/clickfix-etherhiding-go-stealer/",
+  "reference": "https://meltedinhex.com/posts/clickfix-errtraffic-blockchain-c2/",
   "note": "July 2026 snapshot of a fast-rotating cluster. The on-chain contract and behavioural chain are durable; delivery hosts rotate roughly daily.",
   "prior_research": ["HudsonRock", "LevelBlue/SpiderLabs (ErrTraffic v3)", "Sekoia (Unveiling ErrTraffic)", "Censys", "Monarx"],
   "on_chain": {

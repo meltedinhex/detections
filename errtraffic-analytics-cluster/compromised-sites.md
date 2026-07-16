@@ -4,7 +4,7 @@ These are **third-party victim websites** observed serving the ErrTraffic inject
 
 **Status key:** `LIVE` = injection marker confirmed by first-hand fetch at time of writing · `LIVE(B)` = base64+XOR variant confirmed · `PIVOT` = seen in web-scan history, not re-confirmed (a non-detection is *inconclusive* — the inject is served conditionally).
 
-Full analysis: https://meltedinhex.com/posts/clickfix-etherhiding-go-stealer/
+Full analysis: https://meltedinhex.com/posts/clickfix-errtraffic-blockchain-c2/
 
 
 ## High-confidence (64) — loaded two or more rotating hosts
