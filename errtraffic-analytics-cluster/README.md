@@ -19,6 +19,7 @@ Prior research this builds on: HudsonRock, LevelBlue/SpiderLabs (*ErrTraffic v3*
 | [`suricata/errtraffic_analytics.rules`](./suricata/errtraffic_analytics.rules) | Injected loader in HTML, `/api/?a=tds_cfg`, `/landing/windows.html`, `X-Captcha-Mode` header, known SNI | Tune `sid`s for your ruleset. |
 | [`kql/errtraffic_analytics.kql`](./kql/errtraffic_analytics.kql) | Clipboard-PowerShell loader, UAC bypass, dead-drop, known infra | Microsoft Defender / Sentinel. |
 | [`iocs/iocs.csv`](./iocs/iocs.csv) · [`iocs/iocs.json`](./iocs/iocs.json) | Contract, July delivery hosts, C2/exfil, sample hashes, host artefacts | Machine-readable, bucketed by role. |
+| [`compromised-sites.md`](./compromised-sites.md) | Third-party **victim** sites seen serving the injected loader | For owner / CERT notification, **not** a C2 blocklist. Defanged; conditional inject means a clean fetch is inconclusive. |
 
 ## Detection guidance
 
