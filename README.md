@@ -17,6 +17,7 @@ reporting — see the linked write-up in each campaign README for the full reaso
 |---|---|---|---|
 | [`nhmpy-hades-pypi`](./nhmpy-hades-pypi/) | Shai-Hulud-class · Hades wave | PyPI supply-chain credential worm | [Peeling the Sandworm](https://meltedinhex.com/posts/shai-hulud-nhmpy-pypi/) |
 | [`polinrider-blockchain-loader`](./polinrider-blockchain-loader/) | PolinRider · DPRK / Lazarus | npm blockchain dead-drop loader (EtherHiding) | [Dead Drops on the Blockchain](https://meltedinhex.com/posts/polinrider-blockchain-dead-drop-npm/) |
+| [`errtraffic-analytics-cluster`](./errtraffic-analytics-cluster/) | ErrTraffic · "Analytics" cluster | ClickFix MaaS → EtherHiding → Go stealer | [Hiding in Plain Ledger](https://meltedinhex.com/posts/clickfix-etherhiding-go-stealer/) |
 
 ## Layout
 
